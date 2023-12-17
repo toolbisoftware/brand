@@ -47,3 +47,5 @@
 - Purple gradient · `#24202b` > `#130b26`
 - Green gradient · `#1f2925` > `#0b241a`
 - Red gradient · `#261d1d` > `#210a0a`
+
+###### Copyright (c) Toolbi Software. All rights reserved.
